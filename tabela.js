@@ -168,3 +168,4 @@ const tabela2025 = [
     }
   },
 ];
+export default tabela2025;
