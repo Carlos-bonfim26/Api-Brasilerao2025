@@ -1,7 +1,7 @@
 const tabela2025 = [
   {
     nome: 'Atlético Mineiro',
-    sigla: 'ATL',
+    sigla: 'CAM',
     pontos: 0,
     jogos: 0,
     vitorias: 0,
@@ -167,5 +167,117 @@ const tabela2025 = [
       return this.golsMarcados - this.golsSofridos;
     }
   },
+  {
+    nome: 'Mirassol',
+    sigla: 'MIR',
+    pontos: 0,
+    jogos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: function () {
+      return this.golsMarcados - this.golsSofridos;
+    }
+  },
+  {
+    nome: 'Palmeiras',
+    sigla: 'PAL',
+    pontos: 0,
+    jogos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: function () {
+      return this.golsMarcados - this.golsSofridos;
+    }
+  },
+  {
+    nome: 'Red Bull Bragantino',
+    sigla: 'RBB',
+    pontos: 0,
+    jogos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: function () {
+      return this.golsMarcados - this.golsSofridos;
+    }
+  },
+  {
+    nome: 'Santos',
+    sigla: 'SAN',
+    pontos: 0,
+    jogos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: function () {
+      return this.golsMarcados - this.golsSofridos;
+    }
+  },
+  {
+    nome: 'São Paulo',
+    sigla: 'SAO',
+    pontos: 0,
+    jogos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: function () {
+      return this.golsMarcados - this.golsSofridos;
+    }
+  },
+  {
+    nome: 'Sport',
+    sigla: 'SPT',
+    pontos: 0,
+    jogos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: function () {
+      return this.golsMarcados - this.golsSofridos;
+    }
+  },
+  {
+    nome: 'Vasco da Gama',
+    sigla: 'VAS',
+    pontos: 0,
+    jogos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: function () {
+      return this.golsMarcados - this.golsSofridos;
+    }
+  },
+  {
+    nome: 'Vitória',
+    sigla: 'VIT',
+    pontos: 0,
+    jogos: 0,
+    vitorias: 0,
+    empates: 0,
+    derrotas: 0,
+    golsMarcados: 0,
+    golsSofridos: 0,
+    saldoGols: function () {
+      return this.golsMarcados - this.golsSofridos;
+    }
+  }
 ];
 export default tabela2025;
