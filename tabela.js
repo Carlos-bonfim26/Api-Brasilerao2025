@@ -9,9 +9,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Bahia',
@@ -23,9 +21,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Botafogo',
@@ -37,9 +33,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Ceará',
@@ -51,9 +45,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Corinthians',
@@ -65,9 +57,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Cruzeiro',
@@ -79,9 +69,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Flamengo',
@@ -93,9 +81,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Fluminense',
@@ -107,9 +93,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Fortaleza',
@@ -121,9 +105,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Grêmio',
@@ -135,9 +117,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Internacional',
@@ -149,9 +129,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Juventude',
@@ -163,9 +141,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Mirassol',
@@ -177,9 +153,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Palmeiras',
@@ -191,9 +165,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Red Bull Bragantino',
@@ -205,9 +177,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Santos',
@@ -219,9 +189,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'São Paulo',
@@ -233,9 +201,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Sport',
@@ -247,9 +213,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Vasco da Gama',
@@ -261,9 +225,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   },
   {
     nome: 'Vitória',
@@ -275,9 +237,7 @@ const tabela2025 = [
     derrotas: 0,
     golsMarcados: 0,
     golsSofridos: 0,
-    saldoGols: function () {
-      return this.golsMarcados - this.golsSofridos;
-    }
+    saldoGols: 0
   }
 ];
 export default tabela2025;
