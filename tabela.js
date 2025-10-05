@@ -239,7 +239,7 @@ const tabela2025 = [
   },
   {
     nome: 'Sport',
-    sigla: 'SPT',
+    sigla: 'SPO',
     pontos: 0,
     jogos: 0,
     vitorias: 0,

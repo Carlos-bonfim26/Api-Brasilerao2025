@@ -3,6 +3,7 @@ import express from "express";
 const app = express();
 const port = 3000;
 
+app.use(express.json());
 app.get("/", (req, res)=>{
     res.send(tabela2025);
 
@@ -17,3 +18,14 @@ app.get('/:sigla', (req, res) => {
     }
 });
 app.listen(port, ()=> console.log(`Servidor rodando na porta ${port}`));
+
+app.put('/:sigla', (req,res)=>{
+    const sigla = req.params.sigla.toUpperCase();
+    const timeSelecionado = tabela2025.find(time => time.sigla === sigla);
+    const campos = Object.keys(req.body);
+    for(let campo of campos){
+        timeSelecionado[campo] = req.body[campo];
+    }
+    res.status(200).send(timeSelecionado);
+
+})
